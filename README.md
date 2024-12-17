@@ -4,9 +4,7 @@ The NLP Sentiment Analysis on Airline Tweets project applies Natural Language Pr
 
 The dataset used for this analysis contains tweets about different airlines, and the sentiment is classified to help understand customer opinions. Visualizations such as word clouds, sentiment distribution, and negative sentiment reasons are generated to better understand the key issues customers are raising. The project also provides actionable insights into the major reasons for customer dissatisfaction, helping airline companies enhance their services.
 
-The project focuses on:
-
-Processing and cleaning raw text data for NLP tasks.
-Building sentiment analysis models to classify customer sentiments in tweets.
-Utilizing data visualization tools to communicate insights effectively.
-Exploring the impact of social media on brand perception and customer service.
+The project focuses on processing and cleaning raw text data for NLP tasks,
+building sentiment analysis models to classify customer sentiments in tweets,
+utilizing data visualization tools to communicate insights effectively, and
+exploring the impact of social media on brand perception and customer service.
